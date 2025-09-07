@@ -2,7 +2,7 @@
 
 Ein Elektronikprojekt zur Geschwindigkeits- und Beschleunigungsmessung auf Basis des  
 [LILYGO® T-Display-S3 (ESP32-S3)](https://github.com/Xinyuan-LilyGO/T-Display-S3)  
-und des **Beitian BN-880 GNSS/Kompass**.
+und des [Beitian BN-880 GNSS/Kompass](https://www.beitian.com/en/sys-pd/515.html).
 
 ## Ziele
 - **Section Control**: Durchschnittsgeschwindigkeit messen ab Tastendruck (Start/Stop).  
